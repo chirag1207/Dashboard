@@ -1,3 +1,31 @@
 ==== Starting Auto Push at Tue 11/04/2025 23:48:17.63 ==== 
 error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
+warning: in the working copy of 'autopush_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 11d9418] Auto backup on Tue 11/04/2025 23:48:17.75
+ 2 files changed, 12 insertions(+), 3 deletions(-)
+ create mode 100644 autopush_log.txt
+To https://github.com/chirag1207/Dashboard.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/chirag1207/Dashboard.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+==== Completed at Tue 11/04/2025 23:48:18.86 ==== 
+==== Starting Auto Push at Tue 11/04/2025 23:49:41.76 ==== 
+warning: in the working copy of 'autopush_log.txt', LF will be replaced by CRLF the next time Git touches it
+Saved working directory and index state On main: auto_backup_temp
+error: unable to unlink old 'autopush_log.txt': Invalid argument
+fatal: Could not reset index file to revision 'HEAD'.
+To https://github.com/chirag1207/Dashboard.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/chirag1207/Dashboard.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+==== Completed at Tue 11/04/2025 23:49:43.00 ==== 
+==== Starting Auto Push at Tue 11/04/2025 23:49:48.26 ==== 
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
